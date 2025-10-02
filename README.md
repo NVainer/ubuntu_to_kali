@@ -1,11 +1,12 @@
 
-# 🐧 Ubuntu → # ![Dragon](https://upload.wikimedia.org/wikipedia/commons/4/49/Dragon_silhouette.svg) Kaliland (get it? Kali on Wayland...)
+# 🐧 Ubuntu → 🐉 Kali (on Wayland...)
 ### Install essential packages, configure security, and customize your desktop in minutes
 
  
 | From | To |
 |-------|-----|
-| <img width="430" alt="Screenshot 1" src="https://github.com/user-attachments/assets/28624090-a4c8-4783-a0f2-1c39eb50e770" /> | <img width="430" alt="Screenshot 2" src="https://github.com/user-attachments/assets/186c7cb4-71d6-4b9a-aafb-fba8be2c68f3" /> |
+| <img width="430" alt="Screenshot 1" src="https://github.com/user-attachments/assets/28624090-a4c8-4783-a0f2-1c39eb50e770" /> | <img width="430" alt="Screenshot 2" src="https://github.com/user-attachments/assets/07b82b6d-4f53-4dea-a03e-dc203886a610" />
+" /> |
 
 
 # one liner
